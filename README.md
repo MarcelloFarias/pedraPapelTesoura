@@ -1,3 +1,3 @@
 # Pedra, papel e tesoura
 
-### Esse projeto foi uma atividade de uma matéria da faculdade.
+### Esse projeto foi uma atividade da faculdade.
